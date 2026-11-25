@@ -1,0 +1,21 @@
+{
+  "name": "session-title",
+  "displayName": "Session Title",
+  "version": "0.1.0",
+  "description": "Antigravity 新会话规范命名插件：首轮对话自动将标题设为 MMDD｜类型｜主题，支持手动或批量规范重命名。",
+  "author": {
+    "name": "Oct1AtJoe",
+    "url": "https://github.com/Oct1AtJoe"
+  },
+  "homepage": "https://github.com/Oct1AtJoe/antigravity-session-title",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oct1AtJoe/antigravity-session-title"
+  },
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "按规范重命名当前会话标题",
+    "检查最近会话的标题是否符合 MMDD｜类型｜主题 规范",
+    "说明 session-title 插件的命名规则与 8 种类型判定顺序"
+  ]
+}
